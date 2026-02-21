@@ -7,8 +7,7 @@ Developed during the **Accenture Social Innovation Week**, this project explores
 ---
 
 ## 📺 Project Walkthrough
-
-*If you cannot embed the video, [Click here to watch the demo](https://youtu.be/60r2iADYmkY?si=sTRq4XwYeFOtwGzJ)*
+[Click here to watch the demo](https://youtu.be/60r2iADYmkY?si=sTRq4XwYeFOtwGzJ)*
 
 ---
 
